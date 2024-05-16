@@ -1,12 +1,11 @@
 - Hello, I’m @Molijamor, but my real name is Vanessa.
-- I'm 17yo.
+- I'm 17 yo.
 - I have a lot of interests and one of them is programming. I know basics of js, php, css and mysql.
-- I’m currently learing and trying to improve myself in js.
-- 
+- I’m currently learing and trying to improve my skills in js.
+  
 /* ----------------------------------------------------- */
 
-- How to reach me: vanessa.lemanska2006@gmail.com
-- Pronouns: she/her
+- Contact: vanessa.lemanska2006@gmail.com
 
 <!---
 Molijamor/Molijamor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
